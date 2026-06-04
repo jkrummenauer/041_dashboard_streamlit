@@ -19,9 +19,13 @@ This project centralizes the information in an interactive dashboard, allowing m
 
 Add an image or animation of the dashboard in operation in this section.
 
-```markdown
-![Goods Receiving Inspection Dashboard](docs/images/dashboard.png)
-```
+![dashboard_1](docs/images/dashboard_1.png)
+
+Dashboard img 1
+
+![dashboard_1](docs/images/dashboard_2.png)
+
+Dashboard img 2
 
 ## Main Benefits
 
